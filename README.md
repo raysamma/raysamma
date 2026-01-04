@@ -8,7 +8,7 @@
 
   👾 **Java • Python • DSA Grinding**
   <br/>
-  📼 **90s Anime Enthusiast**
+  📼 **OTAKU**
 
   <br/>
 
