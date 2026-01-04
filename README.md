@@ -11,7 +11,7 @@
 
   <br/>
 
-  👇 **My Portfolio & Links**
+  **My Portfolio & Links**
   <br/>
   <a href="https://raysamma.github.io/porfolio-astro/">https://raysamma.github.io/porfolio-astro/</a>
 
