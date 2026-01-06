@@ -5,7 +5,7 @@
 
   ## 💾 Chirayu Khalwa
 
-  👾 **Java • Python • DSA Grinding**
+  👾 **Java  • DSA Grinding**
   <br/>
   📼 **OTAKU**
 
